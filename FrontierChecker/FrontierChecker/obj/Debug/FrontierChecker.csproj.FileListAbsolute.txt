@@ -1,0 +1,15 @@
+C:\Users\megad\source\repos\FrontierChecker\FrontierChecker\bin\Debug\FrontierChecker.exe.config
+C:\Users\megad\source\repos\FrontierChecker\FrontierChecker\bin\Debug\FrontierChecker.exe
+C:\Users\megad\source\repos\FrontierChecker\FrontierChecker\bin\Debug\FrontierChecker.pdb
+C:\Users\megad\source\repos\FrontierChecker\FrontierChecker\obj\Debug\FrontierChecker.csprojAssemblyReference.cache
+C:\Users\megad\source\repos\FrontierChecker\FrontierChecker\obj\Debug\FrontierChecker.Form1.resources
+C:\Users\megad\source\repos\FrontierChecker\FrontierChecker\obj\Debug\FrontierChecker.Properties.Resources.resources
+C:\Users\megad\source\repos\FrontierChecker\FrontierChecker\obj\Debug\FrontierChecker.csproj.GenerateResource.cache
+C:\Users\megad\source\repos\FrontierChecker\FrontierChecker\obj\Debug\FrontierChecker.csproj.CoreCompileInputs.cache
+C:\Users\megad\source\repos\FrontierChecker\FrontierChecker\obj\Debug\FrontierChecker.exe
+C:\Users\megad\source\repos\FrontierChecker\FrontierChecker\obj\Debug\FrontierChecker.pdb
+C:\Users\megad\source\repos\FrontierChecker\FrontierChecker\bin\Debug\Geckofx-Core.dll
+C:\Users\megad\source\repos\FrontierChecker\FrontierChecker\bin\Debug\Geckofx-Winforms.dll
+C:\Users\megad\source\repos\FrontierChecker\FrontierChecker\bin\Debug\Geckofx-Core.pdb
+C:\Users\megad\source\repos\FrontierChecker\FrontierChecker\bin\Debug\Geckofx-Winforms.pdb
+C:\Users\megad\source\repos\FrontierChecker\FrontierChecker\obj\Debug\FrontierChecker.csproj.CopyComplete

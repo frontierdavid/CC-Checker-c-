@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrontierChecker", "FrontierChecker\FrontierChecker.csproj", "{AFAD0B43-6A62-4D0C-85CE-1D6AB641DFD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFAD0B43-6A62-4D0C-85CE-1D6AB641DFD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFAD0B43-6A62-4D0C-85CE-1D6AB641DFD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFAD0B43-6A62-4D0C-85CE-1D6AB641DFD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFAD0B43-6A62-4D0C-85CE-1D6AB641DFD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48104F58-AAFE-4374-9D03-755910AABDB6}
+	EndGlobalSection
+EndGlobal
